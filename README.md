@@ -13,6 +13,8 @@ The vrinda store wants to create annual sales report for 2022. So that, the owne
 6.Relation between age and gender based on number of orders.</br>
 7.Which channel is contributing to maximum sales.</br>
 8.Highest selling category?</br>
+## Dashboard-Interaction
+
 
 
 
