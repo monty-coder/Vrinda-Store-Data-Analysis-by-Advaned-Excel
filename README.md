@@ -13,7 +13,16 @@ The vrinda store wants to create annual sales report for 2022. So that, the owne
 6.Relation between age and gender based on number of orders.</br>
 7.Which channel is contributing to maximum sales.</br>
 8.Highest selling category?</br>
-## Dashboard-Interaction
+9.Dashboard-Interaction<a href=https://github.com/monty-coder/Vrinda-Store-Data-Analysis-by-Advaned-Excel/blob/main/Screenshot%20(34).png>Vrinda-Dashboard</a>
+## Process
+-Verify data for any missing values and anomalies,and sort out the same.</br>
+-Make sure data is consistent and clean with respect to data type,data format and value used.</br>
+-Created pivot tables according to the questions asked.</br>
+-Merge all pivot tables into one dashboard and apply slicer to make dynamic.</br>
+## Dashboard
+![Screenshot (34)](https://github.com/user-attachments/assets/41a666f7-b46a-4283-a705-dfbca3ec9c7a)
+
+
 
 
 
